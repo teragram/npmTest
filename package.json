@@ -1,0 +1,24 @@
+{
+  "name": "npmTest",
+  "version": "1.0.0",
+  "description": "test npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "npmtest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/teragram/npmTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teragram/npmTest/issues"
+  },
+  "homepage": "https://github.com/teragram/npmTest",
+  "devDependencies": {
+    "colors": "^1.1.2",
+    "eyes": "^0.1.8",
+    "pkginfo": "^0.3.0"
+  }
+}
